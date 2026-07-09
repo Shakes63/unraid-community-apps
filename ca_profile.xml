@@ -1,0 +1,11 @@
+<CommunityApplications>
+  <Profile>
+Apps maintained by **Shakes63**.
+
+**Palisade** — a self-hosted control panel for game dedicated servers (ARK: Survival Ascended and Survival Evolved, Conan Exiles, Palworld, Minecraft Java and Bedrock, Icarus, Valheim, 7 Days to Die, Enshrouded). One lean manager container spawns and supervises a container per game server: schema-driven settings, mod browsers, backups, schedules, live consoles, player administration, and optional pfSense port-forward management.
+
+Support: https://github.com/Shakes63/palisade/issues
+  </Profile>
+  <Icon>https://raw.githubusercontent.com/Shakes63/unraid-community-apps/main/icon.svg</Icon>
+  <WebPage>https://github.com/Shakes63/palisade</WebPage>
+</CommunityApplications>
